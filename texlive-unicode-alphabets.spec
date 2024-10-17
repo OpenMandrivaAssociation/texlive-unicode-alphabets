@@ -3,7 +3,7 @@ Version:	66225
 Release:	1
 Summary:	Macros for using characters from Unicode's Private Use Area
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unicode-alphabets
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unicode-alphabets
 License:	cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unicode-alphabets.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unicode-alphabets.doc.r%{version}.tar.xz
